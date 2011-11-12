@@ -1,0 +1,236 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = E5566819146690F500A60060 /* mars */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* mars */;
+		codeSenseManager = E55668241466910800A60060 /* Code sense */;
+		executables = (
+			E5566819146690F500A60060 /* mars */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					716,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					828,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					788,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 342266101;
+			PBXWorkspaceStateSaveDate = 342266101;
+		};
+		perUserProjectItems = {
+			E55668D214693AF900A60060 /* PBXTextBookmark */ = E55668D214693AF900A60060 /* PBXTextBookmark */;
+			E55668D414693AF900A60060 /* PBXTextBookmark */ = E55668D414693AF900A60060 /* PBXTextBookmark */;
+			E55668D514693AF900A60060 /* PBXTextBookmark */ = E55668D514693AF900A60060 /* PBXTextBookmark */;
+			E55668D614693AF900A60060 /* PBXTextBookmark */ = E55668D614693AF900A60060 /* PBXTextBookmark */;
+			E55668D714693AF900A60060 /* PBXTextBookmark */ = E55668D714693AF900A60060 /* PBXTextBookmark */;
+			E55668D914693AF900A60060 /* PBXTextBookmark */ = E55668D914693AF900A60060 /* PBXTextBookmark */;
+			E55668DA14693AF900A60060 /* PBXTextBookmark */ = E55668DA14693AF900A60060 /* PBXTextBookmark */;
+			E55668DB14693AF900A60060 /* PBXTextBookmark */ = E55668DB14693AF900A60060 /* PBXTextBookmark */;
+		};
+		sourceControlManager = E55668231466910800A60060 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* mars.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1006, 548}}";
+			sepNavSelRange = "{120, 17}";
+			sepNavVisRange = "{0, 255}";
+			sepNavWindowFrame = "{{15, 15}, {1281, 758}}";
+		};
+	};
+	8DD76F960486AA7600D96B5E /* mars */ = {
+		activeExec = 0;
+		executables = (
+			E5566819146690F500A60060 /* mars */,
+		);
+	};
+	C6859EA3029092ED04C91782 /* mars.1 */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1006, 1022}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1514}";
+			sepNavWindowFrame = "{{15, 15}, {1281, 758}}";
+		};
+	};
+	E5566819146690F500A60060 /* mars */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = mars;
+		sourceDirectories = (
+		);
+	};
+	E55668231466910800A60060 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	E55668241466910800A60060 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	E55668D214693AF900A60060 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E55668D314693AF900A60060 /* mars.s */;
+		name = "mars.s: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 424;
+		vrLoc = 7396;
+	};
+	E55668D314693AF900A60060 /* mars.s */ = {
+		isa = PBXFileReference;
+		name = mars.s;
+		path = "/Users/huy/objective_c_samples/mars/build/mars.build/Debug/mars.build/Objects-normal/i386/mars.s";
+		sourceTree = "<absolute>";
+	};
+	E55668D414693AF900A60060 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C6859EA3029092ED04C91782 /* mars.1 */;
+		name = "mars.1: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1514;
+		vrLoc = 0;
+	};
+	E55668D514693AF900A60060 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* mars.m */;
+		name = "mars.m: 10";
+		rLen = 0;
+		rLoc = 254;
+		rType = 0;
+		vrLen = 255;
+		vrLoc = 0;
+	};
+	E55668D614693AF900A60060 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* mars.m */;
+		name = "mars.m: 3";
+		rLen = 0;
+		rLoc = 36;
+		rType = 0;
+		vrLen = 255;
+		vrLoc = 0;
+	};
+	E55668D714693AF900A60060 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E55668D814693AF900A60060 /* mars.s */;
+		name = "mars.s: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 424;
+		vrLoc = 7396;
+	};
+	E55668D814693AF900A60060 /* mars.s */ = {
+		isa = PBXFileReference;
+		name = mars.s;
+		path = "/Users/huy/objective_c_samples/mars/build/mars.build/Debug/mars.build/Objects-normal/i386/mars.s";
+		sourceTree = "<absolute>";
+	};
+	E55668D914693AF900A60060 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* mars.m */;
+		name = "mars.m: 10";
+		rLen = 0;
+		rLoc = 254;
+		rType = 0;
+		vrLen = 255;
+		vrLoc = 0;
+	};
+	E55668DA14693AF900A60060 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C6859EA3029092ED04C91782 /* mars.1 */;
+		name = "mars.1: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1514;
+		vrLoc = 0;
+	};
+	E55668DB14693AF900A60060 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* mars.m */;
+		name = "mars.m: 5";
+		rLen = 17;
+		rLoc = 120;
+		rType = 0;
+		vrLen = 255;
+		vrLoc = 0;
+	};
+}

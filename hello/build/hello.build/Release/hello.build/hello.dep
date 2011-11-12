@@ -1,0 +1,6 @@
+00000000000000000000000000000000 bc9da0d4369ebddfc5e4e0d86f2141f9 ffffffffffffffffffffffffffffffff 102 /Users/huy/objective_c_samples/hello/build/Release/hello.dSYM
+50638ccc459f8e882d44638e2eb7ff0d 2914f5afbf41c6a1dcc285193ac9c918 ffffffffffffffffffffffffffffffff 29252 /Users/huy/objective_c_samples/hello/build/Release/hello
+c5aeb7a68adcb10d8d259a5c6ea2aaf1 9c8bd8f6e67db2b7ce3d791bae56f825 ffffffffffffffffffffffffffffffff 8772 /Users/huy/objective_c_samples/hello/build/hello.build/Release/hello.build/Objects-normal/ppc/hello
+5fccd64d7c20e74976562bd6ff4ae718 568a35d1551e6a7b180aab1f11094ac1 ffffffffffffffffffffffffffffffff 12860 /Users/huy/objective_c_samples/hello/build/hello.build/Release/hello.build/Objects-normal/i386/hello
+0000000006d2ded50000000000006c72 c5aeb7a68ed82af38d259a5c6e2ddafd ffffffffffffffffffffffffffffffff 3848 /Users/huy/objective_c_samples/hello/build/hello.build/Release/hello.build/Objects-normal/ppc/main.o
+0000000006d2ded50000000000006c72 5fccd64d78247cb776562bd6ffc59714 ffffffffffffffffffffffffffffffff 3532 /Users/huy/objective_c_samples/hello/build/hello.build/Release/hello.build/Objects-normal/i386/main.o
